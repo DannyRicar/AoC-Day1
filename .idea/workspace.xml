@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1mZuuCxMUiZ1bqx2L7Qnnbs3nVA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -73,5 +74,13 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="496" y="225" width="811" height="669" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1609713669830" />
+    <state x="479" y="162" key="CommitChangelistDialog2" timestamp="1609715125841">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="479" y="162" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1609715125841" />
+    <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609715136087">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1609715136087" />
   </component>
 </project>
