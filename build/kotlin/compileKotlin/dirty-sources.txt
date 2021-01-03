@@ -1,0 +1,1 @@
+/Users/danricar/Documents/GitHub/AoC-Day1/src/main/kotlin/Day1-P1.kt
