@@ -2,6 +2,8 @@ class Day1 {
     fun solve(inputStrs: List<String?>?) {
         val inputs: List<Int> = convertToInts(inputStrs)
         var complete = false
+
+        // Part1
         for (i in inputs.indices) {
             if (complete) break
             for (j in i + 1 until inputs.size) {
@@ -14,6 +16,8 @@ class Day1 {
                 }
             }
         }
+
+        // Part2
         for (i in inputs.indices) {
             for (j in i + 1 until inputs.size) {
                 for (k in j + 1 until inputs.size) {
